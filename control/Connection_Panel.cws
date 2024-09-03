@@ -1,0 +1,462 @@
+[Workspace Header]
+Version = 1700
+Pathname = "/d/OneDrive/Documents/CVI/project/control/Connection_Panel.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2017"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2017"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "Connection_Panel.prj"
+Drag Bar Left = 216
+Window Top = 32
+Window Left = 9
+Window Bottom = 1383
+Window Right = 2551
+Maximized = False
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 10
+Window Confinement Region Enabled = True
+MainColumnWidth = 199
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 1700
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[File 0001]
+Path = "/d/OneDrive/Documents/CVI/project/control/Connection_Panel.uir"
+File Type = "User Interface Resource"
+Disk Date = 3806059080
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Window Height = 531
+Window Width = 1068
+Window Z-Order = 6
+
+[File 0002]
+Path = "/d/OneDrive/Documents/CVI/project/control/Monitor_panel.uir"
+File Type = "User Interface Resource"
+Disk Date = 3806052320
+In Projects = ""
+Window Top = 188
+Window Left = 90
+Window Height = 531
+Window Width = 1068
+Window Z-Order = 7
+
+[File 0003]
+Path = "/d/OneDrive/Documents/CVI/project/control/section_ctrl.h"
+File Type = "Include"
+Disk Date = 3805786734
+In Projects = "1,"
+Window Top = 157
+Window Left = 74
+Window Z-Order = 9
+Source Window State = "1,55,55,55,12,27,27,0,3,80,0,30,0,0,0,25,29,0,55,12,531,1068,1,0,"
+
+[File 0004]
+Path = "/d/OneDrive/Documents/CVI/project/control/sensors.h"
+File Type = "Include"
+Disk Date = 3805517542
+In Projects = "1,"
+Window Top = 281
+Window Left = 138
+Window Z-Order = 5
+Source Window State = "1,40,40,40,18,31,31,0,3,80,0,0,0,0,0,25,18,0,40,18,531,1068,1,0,"
+
+[File 0005]
+Path = "/d/OneDrive/Documents/CVI/project/control/communication.h"
+File Type = "Include"
+Disk Date = 3806395001
+In Projects = "1,"
+Window Top = 219
+Window Left = 106
+Window Z-Order = 2
+Source Window State = "1,22,22,22,22,26,26,0,0,80,0,0,0,0,0,25,3,0,22,82,531,1068,1,55,"
+
+[File 0006]
+Path = "/d/OneDrive/Documents/CVI/project/control/Connection_Panel.c"
+File Type = "CSource"
+Disk Date = 3806125767
+In Projects = "1,"
+Window Top = 64
+Window Left = 26
+Window Z-Order = 1
+Source Window State = "1,152,152,152,12,18,18,0,3,185,0,266,0,1,0,61,112,0,152,12,531,936,1,18,"
+
+[File 0007]
+Path = "/d/OneDrive/Documents/CVI/project/DLL/section_ctrl.c"
+File Type = "CSource"
+Disk Date = 3806060095
+In Projects = ""
+Window Top = 64
+Window Left = 26
+Window Z-Order = 3
+Source Window State = "1,91,91,91,30,41,41,0,0,80,0,155,0,0,0,13,130,0,114,40,291,1068,1,0,"
+
+[File 0008]
+Path = "/c/Program Files (x86)/National Instruments/CVI2017/include/ansi/math.h"
+File Type = "Include"
+Disk Date = 3573586800
+In Projects = ""
+Window Top = 219
+Window Left = 106
+Window Z-Order = 10
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,79,0,91,22,531,1068,1,0,"
+
+[File 0009]
+Path = "/c/Program Files (x86)/National Instruments/CVI2017/include/utility.h"
+File Type = "Include"
+Disk Date = 3573586800
+In Projects = ""
+Window Top = 33
+Window Left = 10
+Window Z-Order = 8
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,569,0,581,15,531,1068,1,0,"
+
+[File 0010]
+Path = "/d/OneDrive/Documents/CVI/project/DLL/sensors.c"
+File Type = "CSource"
+Disk Date = 3805517542
+In Projects = ""
+Window Top = 33
+Window Left = 10
+Window Z-Order = 4
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,28,0,52,14,531,1068,1,0,"
+
+[File 0011]
+Path = "/d/OneDrive/Documents/CVI/project/control/section_ctrl.lib"
+File Type = "Library"
+Disk Date = 3805974892
+In Projects = "1,"
+
+[File 0012]
+Path = "/d/OneDrive/Documents/CVI/project/control/Sensors.lib"
+File Type = "Library"
+Disk Date = 3805517542
+In Projects = "1,"
+
+[File 0013]
+Path = "/d/OneDrive/Documents/CVI/project/control/section_ctrl.dll"
+File Type = "DLL"
+Disk Date = 3805974892
+In Projects = "1,"
+
+[File 0014]
+Path = "/d/OneDrive/Documents/CVI/project/control/Sensors.dll"
+File Type = "DLL"
+Disk Date = 3805517542
+In Projects = "1,"
+
+[Tab Order]
+Tab 0001 = "/d/OneDrive/Documents/CVI/project/control/Connection_Panel.uir"
+Tab 0002 = "/d/OneDrive/Documents/CVI/project/control/Connection_Panel.c"
+Tab 0003 = "/d/OneDrive/Documents/CVI/project/control/Monitor_panel.uir"
+Tab 0004 = "/d/OneDrive/Documents/CVI/project/control/sensors.h"
+Tab 0005 = "/d/OneDrive/Documents/CVI/project/control/section_ctrl.h"
+Tab 0006 = "/d/OneDrive/Documents/CVI/project/DLL/section_ctrl.c"
+Tab 0007 = "/c/Program Files (x86)/National Instruments/CVI2017/include/ansi/math.h"
+Tab 0008 = "/c/Program Files (x86)/National Instruments/CVI2017/include/utility.h"
+Tab 0009 = "/d/OneDrive/Documents/CVI/project/DLL/sensors.c"
+Tab 0010 = "/d/OneDrive/Documents/CVI/project/control/communication.h"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 0
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+
+[Watch 1]
+Watch Expression = "massage"
+
+[Watch 2]
+Watch Expression = "RecBuffer"
+
+[Watch 3]
+Watch Expression = "alert"
+
+[Watch 4]
+Watch Expression = "massage"
+
+[Watch 5]
+Watch Expression = "RecBuffer"
+
+[Watch 6]
+Watch Expression = "alert"
+
+[Watch 7]
+Watch Expression = "massage"
+
+[Watch 8]
+Watch Expression = "RecBuffer"
+
+[Watch 9]
+Watch Expression = "alert"
+
+[Watch 10]
+Watch Expression = "massage"
+
+[Watch 11]
+Watch Expression = "RecBuffer"
+
+[Watch 12]
+Watch Expression = "alert"
+
+[Watch 13]
+Watch Expression = "massage"
+
+[Watch 14]
+Watch Expression = "RecBuffer"
+
+[Watch 15]
+Watch Expression = "alert"
+
+[Watch 16]
+Watch Expression = "massage"
+
+[Watch 17]
+Watch Expression = "RecBuffer"
+
+[Watch 18]
+Watch Expression = "alert"
+
+[Watch 19]
+Watch Expression = "massage"
+
+[Watch 20]
+Watch Expression = "RecBuffer"
+
+[Watch 21]
+Watch Expression = "alert"
+
+[Watch 22]
+Watch Expression = "massage"
+
+[Watch 23]
+Watch Expression = "RecBuffer"
+
+[Watch 24]
+Watch Expression = "alert"
+
+[Watch 25]
+Watch Expression = "massage"
+
+[Watch 26]
+Watch Expression = "RecBuffer"
+
+[Watch 27]
+Watch Expression = "alert"
+
+[Watch 28]
+Watch Expression = "massage"
+
+[Watch 29]
+Watch Expression = "RecBuffer"
+
+[Watch 30]
+Watch Expression = "alert"
+
+[Watch 31]
+Watch Expression = "massage"
+
+[Watch 32]
+Watch Expression = "RecBuffer"
+
+[Watch 33]
+Watch Expression = "alert"
+
+[Watch 34]
+Watch Expression = "massage"
+
+[Watch 35]
+Watch Expression = "RecBuffer"
+
+[Watch 36]
+Watch Expression = "alert"
+
+[Watch 37]
+Watch Expression = "massage"
+
+[Watch 38]
+Watch Expression = "RecBuffer"
+
+[Watch 39]
+Watch Expression = "alert"
+
+[Watch 40]
+Watch Expression = "massage"
+
+[Watch 41]
+Watch Expression = "RecBuffer"
+
+[Watch 42]
+Watch Expression = "alert"
+
+[Watch 43]
+Watch Expression = "massage"
+
+[Watch 44]
+Watch Expression = "RecBuffer"
+
+[Watch 45]
+Watch Expression = "alert"
+
+[Watch 46]
+Watch Expression = "massage"
+
+[Watch 47]
+Watch Expression = "RecBuffer"
+
+[Watch 48]
+Watch Expression = "alert"
+
+[Watch 49]
+Watch Expression = "massage"
+
+[Watch 50]
+Watch Expression = "RecBuffer"
+
+[Watch 51]
+Watch Expression = "alert"
+
+[Watch 52]
+Watch Expression = "massage"
+
+[Watch 53]
+Watch Expression = "RecBuffer"
+
+[Watch 54]
+Watch Expression = "alert"
+
+[Watch 55]
+Watch Expression = "massage"
+
+[Watch 56]
+Watch Expression = "RecBuffer"
+
+[Watch 57]
+Watch Expression = "alert"
+
+[Watch 58]
+Watch Expression = "massage"
+
+[Watch 59]
+Watch Expression = "RecBuffer"
+
+[Watch 60]
+Watch Expression = "alert"
+
+[Watch 61]
+Watch Expression = "massage"
+
+[Watch 62]
+Watch Expression = "RecBuffer"
+
+[Watch 63]
+Watch Expression = "alert"
+
